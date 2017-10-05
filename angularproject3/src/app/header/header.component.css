@@ -1,0 +1,19 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.navbar-brand img{
+    width:60px;
+    margin-top:-10px;
+}
+.active{
+    padding-left:16px; 
+}
+.active:hover{
+    background-color:blue;
+}
+.default{
+    color:white;
+    background-color:orange;
+    padding:8px 20px 8px 20px;  
+}

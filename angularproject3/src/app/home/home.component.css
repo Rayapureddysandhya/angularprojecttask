@@ -1,0 +1,10 @@
+#section3{
+    width:100%;
+    border:1px solid gray;
+    height:220px;
+    box-shadow:0px 0px 2px 10px; 
+}
+#sec3 p{
+    color:blue;
+    margin-top:20px;
+}
